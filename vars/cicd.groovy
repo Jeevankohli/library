@@ -14,6 +14,4 @@ def  newDeploy(jobname, ip, appname)
 }
 
 
-[
-      }
 
